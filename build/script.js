@@ -15,11 +15,12 @@ const GALLERY = Array.from({length:12}, (_,i)=> ({
 
 const CHATS = [
   { from:"Lemon", text:"Kentaaa 😝" },
-  { from:"Kenta", text:"Yes my lemon? 🍋" },
+  { from:"Kenta", text:"ENNA DIII 🥰🎀" },
   { from:"Lemon", text:"Nothing 🙈🥰" },
-  { from:"Kenta", text:"Girl that's not nothing 😤 that's everything." },
-  { from:"Lemon", text:"Ok fine… everything then 😳" },
-  { from:"Kenta", text:"Locked in for 100+ days 🔒💛" }
+  { from:"Kenta", text:"HUHHHHH 😤😤😤" },
+  { from:"Lemon", text:"hehehe 🙈" },
+  { from:"Kenta", text:"Love yaaa 🤭🥰" },
+  { from:"Lemon", text:"Love yaaaaaa MOREEE 🙈😝" }
 ];
 
 // render timeline
