@@ -2,9 +2,9 @@ const TIMELINE = [
   { date: "Day 1", title: "The toddler's step's 🥥🎀", desc: "Slept with body full of butterflies ( both barely slept lol )"},
   { date: "Day 9", title: "First Vc 🎀", desc: "2 shy nibbas being awkward af hehehe"},
   { date: "Day 38", title: "cutie pookie 🙈🤭", desc: "Beginning of 'Kentaaaaa... nothing 🙈🎀'"},
-  { date: "Day 53", title: "Get Used to it", desc: "Started to realise that 'KENTA/LEMON is mine?! 🙈🙈' "},
-  { date: "Day 67", title: "Study + call date 📚☎️", desc: "Pretended to study. Mostly stared at each other."},
-  { date: "Day 100", title: "100 Days Strong ✨", desc: "Celebrating the tiny moments that felt huge."}
+  { date: "Day 53", title: "Get Used to it", desc: "Started to realise that 'LEMON/KENTA is mine?! 🙈🙈' "},
+  { date: "Day 67", title: "ROBLOXXX DAY", desc: "Pookies playing romnatic ahh roblox shi 🙈🎀🤭"},
+  { date: "Day 100", title: "The unexpected century of the decade✨", desc: "I really love you a lot kavi, i dont know how much 'lot' conveys to you. but i mean a LOT"}
 ];
 
 const GALLERY = Array.from({length:12}, (_,i)=> ({
