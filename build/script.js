@@ -1,8 +1,8 @@
 const TIMELINE = [
-  { date: "Day 1", title: "We started talking 💬", desc: "The first ping that turned into everything."},
-  { date: "Day 9", title: "First Vc 🎀", desc: "2 shy nibbas being awkward af lol"},
+  { date: "Day 1", title: "The toddler's step's 🥥🎀", desc: "Slept with body full of butterflies ( both barely slept lol )"},
+  { date: "Day 9", title: "First Vc 🎀", desc: "2 shy nibbas being awkward af hehehe"},
   { date: "Day 38", title: "cutie pookie 🙈🤭", desc: "Beginning of 'Kentaaaaa... nothing 🙈🎀'"},
-  { date: "Day 50", title: "Inside jokes unlocked 😝", desc: "Kentaaa / Nothing 🙈🥰 becomes a permanent feature."},
+  { date: "Day 60", title: "Get Used to it", desc: "Started to realise that 'KENTA/LEMON is mine?! 🙈🙈' "},
   { date: "Day 75", title: "Study + call date 📚☎️", desc: "Pretended to study. Mostly stared at each other."},
   { date: "Day 100", title: "100 Days Strong ✨", desc: "Celebrating the tiny moments that felt huge."}
 ];
