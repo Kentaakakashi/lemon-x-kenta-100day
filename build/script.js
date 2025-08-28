@@ -1,7 +1,7 @@
 const TIMELINE = [
   { date: "Day 1", title: "We started talking 💬", desc: "The first ping that turned into everything."},
-  { date: "Day 7", title: "Late-night memes 😂", desc: "Sent 47 memes. Laughed at 46. (One was cursed.)"},
-  { date: "Day 21", title: "Confession Day ❤️", desc: "Kenta: you're my favorite notification."},
+  { date: "Day 9", title: "First Vc 🎀", desc: "2 shy nibbas being awkward af lol"},
+  { date: "Day 38", title: "cutie pookie 🙈🤭", desc: "Beginning of 'Kentaaaaa... nothing 🙈🎀'"},
   { date: "Day 50", title: "Inside jokes unlocked 😝", desc: "Kentaaa / Nothing 🙈🥰 becomes a permanent feature."},
   { date: "Day 75", title: "Study + call date 📚☎️", desc: "Pretended to study. Mostly stared at each other."},
   { date: "Day 100", title: "100 Days Strong ✨", desc: "Celebrating the tiny moments that felt huge."}
